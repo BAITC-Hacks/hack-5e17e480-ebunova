@@ -1,2 +1,14 @@
-# hack-5e17e480-ebunova
-Hackathon team repository for EbuNova
+# CaseUp
+
+Рабочий MVP для кейса AI Sana «Единый кейс по геймификации практических заданий».
+
+## Запуск
+
+```bash
+npm install
+npm run dev
+```
+
+Проверка production-сборки: `npm run build`.
+
+Задачи и отклики сохраняются в `localStorage`. При первом запуске каталог автоматически заполняется демонстрационными задачами.
